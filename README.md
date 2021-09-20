@@ -3,10 +3,10 @@ Authors: Jun Chen, Heye Zhang, Member, IEEE, Raad Mohiaddin, Tom Wong, David Fir
 
 ![image](https://github.com/Heye-SYSU/AHDC/blob/main/Framework.jpeg)
 
-#Introduction
+# Introduction
 This is a Tensorflow implementation for the AHDC on cross-domain data , as presented in: IEEE TRANSACTIONS ON MEDICAL IMAGING.
 
-#Citation
+# Citation
 @ARTICLE{9540830,
   author={Chen, Jun and Zhang, Heye and Mohiaddin, Raad and Wong, Tom and Firmin, David and Keegan, Jennifer and Yang, Guang},
   journal={IEEE Transactions on Medical Imaging}, 
@@ -17,8 +17,8 @@ This is a Tensorflow implementation for the AHDC on cross-domain data , as prese
   pages={1-1},
   doi={10.1109/TMI.2021.3113678}}
   
-#Requirement
+# Requirement
 Tensorflow = 1.9.0;  Python = 3.6
   
-#Others:
+# Others:
 The code comments and detailed usage will be added in the future.
