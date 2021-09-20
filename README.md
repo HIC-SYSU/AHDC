@@ -8,7 +8,7 @@ This repository provides the implementation of AHDC on cross-domain data in the 
 
 [**Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data**](https://ieeexplore.ieee.org/document/9540830)  
 
-IEEE Transactions on Medical Imaging
+IEEE Transactions on Medical Imaging (2021)
 
 ## Citation
 ```
