@@ -3,23 +3,27 @@ Authors: Jun Chen, Heye Zhang, Member, IEEE, Raad Mohiaddin, Tom Wong, David Fir
 
 ![image](https://github.com/Heye-SYSU/AHDC/blob/main/Framework.jpeg)
 
-# Introduction
+## Introduction
 This is a Tensorflow implementation for the AHDC on cross-domain data , as presented in: IEEE TRANSACTIONS ON MEDICAL IMAGING.
 
-# Citation
-@ARTICLE{9540830,  
- &nbsp;&nbsp;&nbsp;&nbsp;author={Chen, Jun and Zhang, Heye and Mohiaddin, Raad and Wong, Tom and Firmin, David and Keegan, Jennifer and Yang, Guang},  
- &nbsp;&nbsp;&nbsp;&nbsp;journal={IEEE Transactions on Medical Imaging},  
- &nbsp;&nbsp;&nbsp;&nbsp;title={Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data},   
- &nbsp;&nbsp;&nbsp;&nbsp;year={2021},  
- &nbsp;&nbsp;&nbsp;&nbsp;volume={},  
- &nbsp;&nbsp;&nbsp;&nbsp;number={},  
- &nbsp;&nbsp;&nbsp;&nbsp;pages={1-1},  
- &nbsp;&nbsp;&nbsp;&nbsp;doi={10.1109/TMI.2021.3113678}  
- }. 
-  
-# Requirement
+## Citation
+```
+@ARTICLE{9540830,
+  author={Chen, Jun and Zhang, Heye and Mohiaddin, Raad and Wong, Tom and Firmin, David and Keegan, Jennifer and Yang, Guang},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2021.3113678}
+ }
+```
+
+## Requirement
+```
 Tensorflow = 1.9.0;  Python = 3.6
+```
   
-# Others:
+## Others
 The code comments and detailed usage will be added in the future.
