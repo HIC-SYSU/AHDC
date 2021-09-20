@@ -8,14 +8,14 @@ This is a Tensorflow implementation for the AHDC on cross-domain data , as prese
 
 # Citation
 @ARTICLE{9540830,  
- &nbsp;&nbsp;author={Chen, Jun and Zhang, Heye and Mohiaddin, Raad and Wong, Tom and Firmin, David and Keegan, Jennifer and Yang, Guang},  
- &nbsp;&nbsp;journal={IEEE Transactions on Medical Imaging},  
- &nbsp;&nbsp;title={Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data},   
- &nbsp;&nbsp;year={2021},  
- &nbsp;&nbsp;volume={},  
- &nbsp;&nbsp;number={},  
- &nbsp;&nbsp;pages={1-1},  
- &nbsp;&nbsp;doi={10.1109/TMI.2021.3113678}  
+ &nbsp;&nbsp;&nbsp;&nbsp;author={Chen, Jun and Zhang, Heye and Mohiaddin, Raad and Wong, Tom and Firmin, David and Keegan, Jennifer and Yang, Guang},  
+ &nbsp;&nbsp;&nbsp;&nbsp;journal={IEEE Transactions on Medical Imaging},  
+ &nbsp;&nbsp;&nbsp;&nbsp;title={Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data},   
+ &nbsp;&nbsp;&nbsp;&nbsp;year={2021},  
+ &nbsp;&nbsp;&nbsp;&nbsp;volume={},  
+ &nbsp;&nbsp;&nbsp;&nbsp;number={},  
+ &nbsp;&nbsp;&nbsp;&nbsp;pages={1-1},  
+ &nbsp;&nbsp;&nbsp;&nbsp;doi={10.1109/TMI.2021.3113678}  
  }. 
   
 # Requirement
