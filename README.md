@@ -1,5 +1,5 @@
 # Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data
-Authors: Jun Chen, Heye Zhang, Member, IEEE, Raad Mohiaddin, Tom Wong, David Firmin, Jennifer Keegan, and Guang Yang, Senior Member, IEEE
+Authors: Jun Chen, Heye Zhang, Raad Mohiaddin, Tom Wong, David Firmin, Jennifer Keegan, and Guang Yang
 
 ![image](https://github.com/Heye-SYSU/AHDC/blob/main/Framework.jpeg)
 
