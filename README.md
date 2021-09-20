@@ -4,7 +4,11 @@ Authors: Jun Chen, Heye Zhang, Member, IEEE, Raad Mohiaddin, Tom Wong, David Fir
 ![image](https://github.com/Heye-SYSU/AHDC/blob/main/Framework.jpeg)
 
 ## Introduction
-This is a Tensorflow implementation for the AHDC on cross-domain data , as presented in: IEEE TRANSACTIONS ON MEDICAL IMAGING.
+This repository provides the implementation of AHDC on cross-domain data in the following paper:  
+
+[**Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data**](https://ieeexplore.ieee.org/document/9540830)  
+
+IEEE Transactions on Medical Imaging
 
 ## Citation
 ```
